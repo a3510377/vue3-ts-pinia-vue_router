@@ -1,2 +1,2 @@
-* text eol=lf linguist-detectable=true
-*.{js,yaml,svg} linguist-detectable=false
+* text eol=lf
+*.js linguist-detectable=false
